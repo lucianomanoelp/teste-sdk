@@ -1,5 +1,5 @@
-function printLog() {
-    console.log('TESTANDO');
+function printLog(text) {
+    console.log(text);
 }
 
 module.exports = {
